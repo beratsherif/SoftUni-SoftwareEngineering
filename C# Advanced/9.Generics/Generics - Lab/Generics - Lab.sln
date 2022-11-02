@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Box", "01. Box\01. Box.csproj", "{1CD49704-629E-42D2-B013-127C969DA94F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Array Creator", "02. Array Creator\02. Array Creator.csproj", "{311B747D-D880-4491-A020-B034543C2F0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CD49704-629E-42D2-B013-127C969DA94F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD49704-629E-42D2-B013-127C969DA94F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD49704-629E-42D2-B013-127C969DA94F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD49704-629E-42D2-B013-127C969DA94F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{311B747D-D880-4491-A020-B034543C2F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{311B747D-D880-4491-A020-B034543C2F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{311B747D-D880-4491-A020-B034543C2F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{311B747D-D880-4491-A020-B034543C2F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BDF152C-8E2B-451C-B459-77EC8E910CD6}
+	EndGlobalSection
+EndGlobal
