@@ -1,6 +1,5 @@
 ﻿using System;
-
-namespace _01._Class_Box_Data
+namespace ClassBoxData
 {
     public class Box
     {
@@ -8,7 +7,7 @@ namespace _01._Class_Box_Data
         private double width;
         private double height;
 
-        public Box(double length,double width,double height)
+        public Box(double length, double width, double height)
         {
             Length = length;
             Width = width;
